@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+streamlit
+python-dotenv
+langchain
+langchain-google-genai
+pinecone
+requests
+tqdm
