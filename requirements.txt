@@ -7,3 +7,8 @@ langchain-google-genai
 pinecone
 requests
 tqdm
+sqlalchemy
+psycopg2-binary
+pandas
+kagglehub
+pydantic-settings
